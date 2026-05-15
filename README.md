@@ -32,3 +32,11 @@ The system provides a simple menu-driven interface that is easy to understand an
 * Barcode Scanning System
 
 ⭐ This project is a small technological contribution towards building a hunger-free society and promoting smart food management systems.
+
+## Team Members
+- P.MANYATHA
+- G.PAVANI
+- P.MOHITH SAI MURALI
+- K.SRI SATYA SAI
+- L.ADITYA
+
